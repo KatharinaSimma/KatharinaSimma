@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hello
+
+## Hi there 👋
 
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript here: <a target="_blank" href="https://www.codewars.com/users/captnkathi"><img src="https://www.codewars.com/users/captnkathi/badges/small" alt="codewars badge small" /></a>
+- 🌱 I’m currently improving my JavaScript Skills here: <a target="_blank" href="https://www.codewars.com/users/captnkathi"><img src="https://www.codewars.com/users/captnkathi/badges/small" alt="codewars badge small" /></a>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
