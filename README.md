@@ -5,8 +5,5 @@ I recently found my true calling as a developer after a career as a project coor
 I’m currently improving my JavaScript Skills here:<br>
 <a target="_blank" href="https://www.codewars.com/users/captnkathi"><img src="https://www.codewars.com/users/captnkathi/badges/small" alt="codewars badge small" /></a>
 
-I’m trying to become an awesome hacker here: <br>
-<script src="https://tryhackme.com/badge/346155"></script>
-
 Find me on LinkedIn: https://www.linkedin.com/in/katharinasimma/
 
