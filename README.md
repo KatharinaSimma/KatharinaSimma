@@ -1,14 +1,8 @@
-# Hello
+# About me
 
-## Hi there 👋
+I recently found my true calling as a developer after a career as a project coordinator. I am passionate about JavaScript and seek a deeper understanding of programming languages. At the same time I want to provide a good user experience. It is important to me that my work has meaning and improves peoples' lives.
 
+I’m currently improving my JavaScript Skills here: <a target="_blank" href="https://www.codewars.com/users/captnkathi"><img src="https://www.codewars.com/users/captnkathi/badges/small" alt="codewars badge small" /></a>
 
+Find me on LinkedIn: https://www.linkedin.com/in/katharinasimma/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently improving my JavaScript Skills here: <a target="_blank" href="https://www.codewars.com/users/captnkathi"><img src="https://www.codewars.com/users/captnkathi/badges/small" alt="codewars badge small" /></a>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/katharinasimma/
-- 😄 Pronouns: she/her (English), sie/ihr (German)
-- ⚡ Fun fact: ...
